@@ -1,3 +1,6 @@
 38.44.240.0/21,DO,DO-01,Santo Domingo Este,11707
-38.52.160.0/22,DO,DO-01,Santo Domingo Este,11707
+38.52.160.0/24,DO,DO-01,Santo Domingo Este,11707
+38.52.161.0/24,DO,DO-01,Santo Domingo Este,11707
+38.52.162.0/24,DO,DO-01,Santo Domingo Este,11707
+38.52.163.0/24,DO,DO-01,Santiago,51000
 2803:8910::/32,DO,DO-01,Santo Domingo Este,11707
