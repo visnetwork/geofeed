@@ -7,14 +7,17 @@
 38.44.246.0/24,DO,DO-01,Boca Chica,15700
 38.44.244.0/24,DO,DO-06,Villa Tapia,34000
 38.52.160.0/24,DO,DO-01,Santo Domingo Este,11707
-38.52.161.0/24,DO,DO-01,Distrito Nacional,10407
+38.52.161.0/24,DO,DO-01,Santo Domingo Este,11707
 38.52.162.0/24,DO,DO-01,Santo Domingo Este,11707
-38.52.163.0/24,DO,DO-01,Santiago de los Caballeros,51000
+38.52.163.0/24,DO,DO-25,Villa Gonzalez,51600
 38.56.204.0/24,DO,DO-18,Los Hidalgos,57000
 38.158.80.0/24,DO,DO-01,Distrito Nacional,10407
 38.158.81.0/24,DO,DO-01,Distrito Nacional,10407
 38.156.20.0/24,DO,DO-01,Santo Domingo Este,11707
-38.156.21.0/24,DO,DO-01,Santo Domingo Este,11707
+38.156.21.0/24,DO,DO-09,La Ortega,56000
 38.156.22.0/24,DO,DO-01,Santo Domingo Este,11707
 38.156.23.0/24,DO,DO-18,Puerto Plata,53000
+38.156.253.0/24,DO,DO-17,Bani,94000
 2803:8910::/32,DO,DO-01,Santo Domingo Este,11707
+2803:8910:fffe::/48,DO,DO-18,Los Hidalgos,57000
+2803:8910:ffff::/48,DO,DO-18,Los Hidalgos,57000
