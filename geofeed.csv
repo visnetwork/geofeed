@@ -18,7 +18,6 @@
 38.156.22.0/24,DO,DO-01,Santo Domingo Este,11707
 38.156.23.0/24,DO,DO-18,Puerto Plata,53000
 38.156.253.0/24,DO,DO-17,Bani,94000
-38.147.152.0/23,DO,DO-11,Higuey,23000
 2803:8910::/32,DO,DO-01,Santo Domingo Este,11707
-2803:8910:fffe::/48,DO,DO-18,Los Hidalgos,57000
-2803:8910:ffff::/48,DO,DO-18,Los Hidalgos,57000
+2803:8910::/48,DO,DO-01,Santo Domingo Este,11707
+2803:8910::/39,DO,DO-01,Santo Domingo Este,11707
